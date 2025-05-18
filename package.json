@@ -1,0 +1,14 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "Book selling website backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.6",
+    "stripe": "^12.13.0"
+  }
+}
